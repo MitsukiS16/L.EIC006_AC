@@ -1,0 +1,10 @@
+Powerpoint:
+#01: Program Execution
+#02: Representação de Números Inteiros
+#03: Representação de Números em Vírgula Flutuante
+#04: Encoding MIPS Instructions
+#05: MIPS Programming I
+#06: MIPS Programming II
+#07: MIPS Programming III
+#09: MIPS Multi-Cycle Implementation
+#11: Performance
