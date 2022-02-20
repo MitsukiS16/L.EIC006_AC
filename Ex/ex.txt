@@ -1,4 +1,4 @@
-Exercises AC:
+Exercises:
 1. Execução de Programas
 2. Representação de Números Inteiros
 3. Representação de Números em Vírgula Flutuante
