@@ -1,0 +1,9 @@
+Powerpoint:
+#1: Background
+#2: Program Execution
+#3: Data Representation
+#4: MIPS Programming
+#5: Basic Components
+#6: Performance
+#7: MIPS Implementation
+#8: Memory Hierarchy
